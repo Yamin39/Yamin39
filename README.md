@@ -1,3 +1,5 @@
+![Banner Image](https://raw.githubusercontent.com/Yamin39/Yamin39/main/banner.png)
+
 ## 👨‍💻 About me
 👋 Hi there! I'm Mufazzal Hossain Yamin, a tech enthusiast with a deep passion for Web Development. Ever since I wrote my first line of code, I've been captivated by the endless possibilities of technology. My mission is to create impactful and efficient solutions through code.
 
@@ -20,6 +22,3 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<br />
