@@ -11,5 +11,16 @@ I'm a web developer based in Bangladesh who is passionate about everything relat
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yamin39&theme=radical)](https://git.io/streak-stats) <br/>
 
+<div>
+      <div></div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin39&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yamin39&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
+    </picture>
+</div>
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<br />
