@@ -10,5 +10,8 @@ I'm a web developer based in Bangladesh who is passionate about everything relat
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yamin39&theme=radical&hide_border=false)<br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yamin39&theme=radical)](https://git.io/streak-stats)
+<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
