@@ -20,8 +20,15 @@
     </picture>
 </div>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+
+## 🐍 GitHub Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yamin39/Yamin39/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yamin39/Yamin39/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yamin39/Yamin39/output/github-snake.svg" />
+</picture>
 
 ## 🤝 Contact me
 📞 +8801626639229 <br />
